@@ -60,7 +60,8 @@ class ContactComponent extends Component {
   }
 
   submitData() {
-    return fetch('https://gitter-connect.herokuapp.com/api/message', {
+    return fetch('https://gitter-connect.herokuapp.com/', {
+    // return fetch('https://gitter-connect.herokuapp.com/api/message', {
       method: 'POST',
       headers: {
         'Accept': 'application/json',

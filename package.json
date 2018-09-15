@@ -24,5 +24,15 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "deploy": "npm run build && gh-pages -d build"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glytchedup/Personalportfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glytchedup/Personalportfolio/issues"
+  },
+  "homepage": "https://github.com/Glytchedup/Personalportfolio#readme"
 }
