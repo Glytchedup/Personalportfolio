@@ -11,7 +11,7 @@ class IntroductionComponent extends Component {
             <p className="introduction-text">
               Loves Javascript, dogs and Thai Food.
               Aspiring Film Critic. Extreme DIY'er.
-              Revenue Manager for Marriott International, currently living in Gilbert, AZ.
+              I currently work as a Revenue Manager for Marriott International and live in Gilbert, AZ.
             </p>
           </div>
         );

@@ -67,29 +67,6 @@ class TimelineComponent extends Component {
                       <CardText expandable={true}>
                           Sept 2015 - Now 
                           <br/><br/>
-                            <div className="timeline-entries">
-                              <div className="timeline-entry-chip">
-                                <Chip>Angular 2</Chip>
-                              </div>
-                              <div className="timeline-entry-chip">
-                                <Chip>Docker</Chip>
-                              </div>
-                              <div className="timeline-entry-chip">
-                                <Chip>Jenkins</Chip>
-                              </div>
-                              <div className="timeline-entry-chip">
-                                <Chip>LESS</Chip>
-                              </div>
-                              <div className="timeline-entry-chip">
-                                <Chip>Java Spring</Chip>
-                              </div>
-                              <div className="timeline-entry-chip">
-                                <Chip>Foundation, Bootstrap</Chip>
-                              </div>
-                              <div className="timeline-entry-chip">
-                                <Chip>Confluence, JIRA</Chip>
-                              </div>
-                            </div>
                       </CardText>
                   </Card>
                 </div>
